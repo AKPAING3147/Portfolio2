@@ -15,7 +15,7 @@ const vt323 = VT323({
 });
 
 export const metadata: Metadata = {
-  title: "AKP | Software Engineer",
+  title: "AKP | Web Developer",
   description:
     "A professional developer portfolio showcasing high-performance web applications, technical expertise, and software engineering projects.",
   keywords: ["portfolio", "developer", "software engineer", "full-stack", "web development", "react", "next.js"],
